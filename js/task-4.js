@@ -4,11 +4,11 @@ function getShippingCost(country) {
     case 'China':
       message = 'Shipping to China will cost 100 credits';
       break;
-    case 'chile':
+    case 'Chile':
       message = 'Shipping to Chile will cost 250 credits';
-      break;
+      break;  
     case 'Australia':
-      message = 'Shipping to Austria will cost 170 credits';
+      message = 'Shipping to Australia will cost 170 credits';
       break;
     case 'Jamaica':
       message = 'Shipping to Jamaica will cost 120 credits';
